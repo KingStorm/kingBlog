@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Speech Space</title>
+    <link>https://kingstorm.github.io/about/</link>
+    <description>Recent content in About on Speech Space</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>Copyright © 2019, Jianhao Ye; all rights reserved.</copyright>
+    <lastBuildDate>Mon, 18 Nov 2019 19:51:04 +0800</lastBuildDate>
+    
+	<atom:link href="https://kingstorm.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

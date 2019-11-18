@@ -1,0 +1,3 @@
+[submodule "kingBlog/themes/hugo-swift-theme"]
+	path = kingBlog/themes/hugo-swift-theme
+	url = https://github.com/onweru/hugo-swift-theme.git
